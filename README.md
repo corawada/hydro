@@ -9,3 +9,5 @@ experiment django project named "polls" for aws learning
 
 ### NEXT FUNCTION
 - pollsアプリケーションのセットアップ
+    - settings.py をgitから隠す
+        - 具体的には.env とかに書き直す
